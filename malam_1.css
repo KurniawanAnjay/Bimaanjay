@@ -1,0 +1,38 @@
+*,
+html{
+        margin: 0px;
+        padding: 0px;
+}
+
+table{
+     display: gird;
+     justify-content: center;
+     align-content: center;
+     background: #999999;
+}
+tr td{
+        width: 250px;
+}
+#z{
+        width: 10px;
+}
+#y{
+        color: blue;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+}
+#x{
+        background-color: white;
+}
+#s{
+        background-color: pink;
+        padding: 20px;
+        display: flex;
+        justify-content: center
+        align-content: center;
+}
+#n{
+        width: 80px;
+        height: 40px;
+}
